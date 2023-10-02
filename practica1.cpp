@@ -1,10 +1,8 @@
 /*
-Barrios Retana Lizeth 372813
-29-09-2023
-1. Implementar una calculadora que pueda realizar operaciones de suma, resta, multiplicación y división. El usuario debe ingresar dos números y el operador.
-2. Implementar un programa que simule un juego de adivinar el número. El programa debe generar un número aleatorio entre 1 y 100 y permitir al usuario adivinar hasta que lo acierte. Dar pistas como "Demasiado alto" o "Demasiado bajo".
-3. Implementar una calculadora de áreas que te permita determinar el área de un triángulo, círculo, rectángulo, cubo y cilindro. Se deberá crear un informe que incluya tanto los códigos fuente como los diagramas de flujo correspondientes.
-Practica1_ConceptosGenerales_BarriosRetana_Lizeth
+Nombre del archivo: practica1.c
+Autor: Lizeth Barrios Retana
+Fecha de creación: 29 de Agosto de 2023
+Descripción: Este codigo contiene 3 opciones para ejecutar el codigo, una calculadora de operaciones basicas, un juego de azar y una calculadora para areas.
 */
 
 // Librerías
